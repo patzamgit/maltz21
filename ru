@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="assets/css/custom.css" id="main_style">
@@ -45,26 +45,26 @@
                 <nav class="menu__center-nav">
                   <ul>
                    
-                    <li><a href="#section-how-it-works" class="link link--gray link--gray">¿Cómo Funciona?</a></li>
-                    <li><a href="#section-pricing" class="link link--gray link--gray">Precio</a></li>
-                    <li><a href="https://app.maltzenglish.com/student" class="link link--gray link--gray" target="_blank">Inicio de Sesión para Estudiantes</a></li>
+                    <li><a href="#section-how-it-works" class="link link--gray link--gray">Как это работает</a></li>
+                    <li><a href="#section-pricing" class="link link--gray link--gray">Цены</a></li>
+                    <li><a href="https://app.maltzenglish.com/student" class="link link--gray link--gray" target="_blank">Вход для учеников</a></li>
                   </ul>
                 </nav>
               </div>
               <div class="menu__item">
                 <nav class="menu__right-nav d-l-none">
                   <ul>
-                    <li><a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent" target="_blank">Comenzar ahora</a></li>
+                    <li><a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent" target="_blank">Начать</a></li>
                     <li>
                       <div class="menu__dropdown d-t-none">
-                        <a class="link link--gray menu__dropdown-btn">Es
+                        <a class="link link--gray menu__dropdown-btn">Ru
                           <span><i class="mdi mdi-chevron-down"></i></span>
                         </a>
                         <div class="menu__dropdown-content">
                           <a class="link link--gray" href="index.html">En</a>
-                          <a class="link link--gray link--gray-active" href="es.html">Es</a>
-                          <a class="link link--gray" href="fr.html">Fr</a>
-                          <a class="link link--gray" href="ru.html">Ru</a>
+                          <a class="link link--gray" href="es">Es</a>
+                          <a class="link link--gray" href="fr">Fr</a>
+                          <a class="link link--gray link--gray-active" href="ru">Ru</a>
                         </div>
                       </div>
                     </li>
@@ -90,21 +90,21 @@
           </button>
           <nav class="mobile-menu__wrapper">
             <ul class="mobile-menu__ul">
-              <li class="mobile-menu__li"><a href="#section-how-it-works" class="link link--dark-gray link--gray-active">¿Cómo funciona?</a></li>
-              <li class="mobile-menu__li"><a href="#section-pricing" class="link link--dark-gray" >Precio</a></li>
-              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/code" class="link link--dark-gray"  target="_blank">Canjear un código</a></li>
-              <li class="mobile-menu__li"><a href="https://languagepanel.com/mal/callback" class="link link--dark-gray"  target="_blank">Consulta</a></li>
-              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/student" class="link link--dark-gray"  target="_blank">Inicio de Sesión para Estudiantes</a></li>
-              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/applicant/login#signup" class="link link--dark-gray"  target="_blank">Enseña con nosotros</a></li>
-              <li class="mobile-menu__li"><a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent">Agende su cita para llevar a cabo su evaluación</a></li>
-              <li class="mobile-menu__li mobile-menu__li-collapse"><a class="link link--dark-gray">Es
+              <li class="mobile-menu__li"><a href="#section-how-it-works" class="link link--dark-gray link--gray-active">Как это работает</a></li>
+              <li class="mobile-menu__li"><a href="#section-pricing" class="link link--dark-gray" >Цены</a></li>
+              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/code" class="link link--dark-gray"  target="_blank">Использовать промокод</a></li>
+              <li class="mobile-menu__li"><a href="https://languagepanel.com/mal/callback" class="link link--dark-gray"  target="_blank">Консультация</a></li>
+              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/student" class="link link--dark-gray"  target="_blank">Вход для учеников</a></li>
+              <li class="mobile-menu__li"><a href="https://app.maltzenglish.com/applicant/login#signup" class="link link--dark-gray"  target="_blank">Учить с нами</a></li>
+              <li class="mobile-menu__li"><a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent">Запланируйте тестирование</a></li>
+              <li class="mobile-menu__li mobile-menu__li-collapse"><a class="link link--dark-gray">En
                 <span><i class="mdi mdi-chevron-down"></i></span></a></li>
               <li class="mobile-menu__ul--collapsed">
                 <ul class="mobile-menu__ul">
-                  <li class="mobile-menu__li"><a href="index.html" class="link link--gray">En</a></li>
-                  <li class="mobile-menu__li"><a href="es.html" class="link link--gray link--gray-active">Es</a></li>
-                  <li class="mobile-menu__li"><a href="fr.html" class="link link--gray">Fr</a></li>
-                  <li class="mobile-menu__li"><a href="ru.html" class="link link--gray">Ru</a></li>
+                  <li class="mobile-menu__li"><a href="es.html" class="link link--gray">En</a></li>
+                  <li class="mobile-menu__li"><a href="es.html" class="link link--gray">Es</a></li>
+                  <li class="mobile-menu__li"><a href="es.html" class="link link--gray">Fr</a></li>
+                  <li class="mobile-menu__li"><a href="index.html" class="link link--gray link--gray-active">Ru</a></li>
                 </ul>
               </li>
             </ul>
@@ -119,16 +119,16 @@
             <div class="row header-home__webapp-img-wrap">
               <div class="flex flex-direction-row">
                 <div class="flex-left">
-                  <h2 class="header-home__title">Descubra el Nivel de su<br/>Conocimiento de Inglés</h2>
+                  <h2 class="header-home__title">Узнайте свой уровень<br/>английского.</h2>
                     <ul class="header-home__description header-home__description--webapp">
-                      <li>Evaluaciones <abbr class="bold">en vivo</abbr></li>
-                      <li>Asesores <abbr class="bold">certificados</abbr></li>
-                      <li><abbr class="bold">Siguiendo las pautas del</abbr> CERF</li>
-                      <li>Publique su certificado en <abbr class="bold">Linkedin</abbr></li>
+                      <li>Тестирование <abbr class="bold">вживую</abbr></li> 
+                      <li><abbr class="bold">Дипломированные</abbr> эксперты</li>
+                      <li><abbr class="bold">В соответствии с </abbr>CEFR</li>
+                      <li>Опубликуйте свой сертификат на <abbr class="bold">LinkedIn</abbr></li>
                     </ul>
                   <div class="header-home__btns"> 
-                    <a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent header-home__btn" target="_blank">Comenzar ahora</a>
-                    <a href="" class="site-btn site-btn--light header-home__btn">Agende sua consulta</a>
+                    <a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent header-home__btn" target="_blank">Начать</a>
+                    <a href="" class="site-btn site-btn--light header-home__btn">Забронировать консультацию</a>
                   </div>
                 </div>
                 <div class="flex flex-direction-row flex-align-center">
@@ -150,17 +150,17 @@
             <div class="">
               <div class="row">
                 <div class="col-12">
-                  <h3 class="section__title">¿Cómo funciona?</h3>
-                  <p class="section__description">¿Cómo completar tu primera asignación, asistir a clases, monitorear su progreso y publicar el certificado a su perfil de LinkedIn?</p>
+                  <h3 class="section__title">Как это работает</h3>
+                  <p class="section__description">Как пройти своё первое тестирование, посещать занятия, отслеживать свой прогресс и опубликовать сертификат в профиле LinkedIn.</p>
                 </div>
               </div>
               <div class="row about-app ">
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content about-app__description-content--left">
                     <div class="about-index"><h4 class="about-index-text">1</h4></div>
-                    <h4 class="about-app__description-title about-app__description-content--left">Agende su cita para llevar a cabo su evaluación</h4>
-                    <p>Primero agende una cita para llevar a cabo su primera evaluación.<br/> Elija su maestro, la hora y fecha que le sea más conveniente.</p>
-                    <a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent about-app__btn" target="_blank">Agende su cita para llevar a cabo su evaluación</a>
+                    <h4 class="about-app__description-title about-app__description-content--left">Запланируйте тестирование</h4>
+                    <p>Начните с планирования вашего первого тестирования.<br/> Выберите преподавателя, время и дату, которые вам подходят.</p>
+                    <a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent about-app__btn" target="_blank">Запланируйте тестирование</a>
                   </div>
                 </div>
                 <div class="col-6 about-app__img  pt-50">
@@ -173,8 +173,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content ">
                     <div class="about-index"><h4 class="about-index-text">2</h4></div>
-                    <h4 class="about-app__description-title">Complete el examen de pre evaluación</h4>
-                    <p>Para evaluar su gramática y habilidades de escritura, su asesor le pedirá que complete un examen de gramática, además le pedirá escribir un corto ensayo antes de la hora agendada para su evaluación.</p>
+                    <h4 class="about-app__description-title">Заполните предварительный опрос</h4>
+                    <p>Чтобы наш эксперт мог оценить ваши грамматические навыки и навыки письма, вам нужно будет письменно ответить на несколько вопросов по грамматике и написать небольшое эссе перед тестированием, которое вы запланировали.</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img about-app__img--left pt-50">
@@ -187,8 +187,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content about-app__description-content--left">
                     <div class="about-index"><h4 class="about-index-text">3</h4></div>
-                    <h4 class="about-app__description-title">Asista a la evaluación</h4>
-                    <p>Únase a su <abbr class="bold">asesor</abbr> en el salón de clases virtual a la hora agendada. Durante la sesión de 25 minutos, responda las preguntas y su asesor creará un reporte de evaluación.</p>
+                    <h4 class="about-app__description-title">Пройдите тестирование</h4>
+                    <p>Встретьтесь с нашим <abbr class="bold">экспертом</abbr> в онлайн-классе в назначенное время. Сеанс будет длиться 25 минут, в течение которых наш эксперт попросить вас ответить на несколько вопросов и составит отчёт по тестированию.</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img  pt-50">
@@ -201,8 +201,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content">
                     <div class="about-index"><h4 class="about-index-text">4</h4></div>
-                    <h4 class="about-app__description-title">Revise su reporte de evaluación</h4>
-                    <p>Su reporte de evaluación incluirá un puntaje por criterio, como también recomendaciones de su asesor.</p>
+                    <h4 class="about-app__description-title">Ознакомьтесь с отчётом по тестированию</h4>
+                    <p>В вашем отчёте по тестированию будут указаны баллы согласно разными критериям, а также рекомендации от эксперта, с которым вы общались.</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img about-app__img--left pt-50">
@@ -215,8 +215,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content about-app__description-content--left">
                     <div class="about-index"><h4 class="about-index-text">5</h4></div>
-                    <h4 class="about-app__description-title">Agregue su Certificado a su perfil de LinkedIn</h4>
-                    <p>El certificado le ayudará a resaltar de los demás solicitantes e incrementará la visibilidad de su perfil o Currículo.</p><p>LinkedIn ha confirmado que usted podrá <a href="https://blog.linkedin.com/2014/11/20/showcase-your-professional-certifications-on-linkedin-in-one-click" class="about-app__link" target="_blank">mejorar hasta 6 veces el número de visitas de su perfil. </a>Simplemente agregando habilidades certificadas (<a href="https://maltzenglish.com/cert/h4T3o" class="about-app__link" target="_blank">vea ejemplos del certificado</a>).</p>
+                    <h4 class="about-app__description-title">Добавьте сертификат в ваш профиль LinkedIn</h4>
+                    <p>Сертификат позволит вам выгодно отличиться от других кандидатов и увеличит видимость вашего профиля и резюме.</p><p>LinkedIn утверждает, что вы можете <a href="https://blog.linkedin.com/2014/11/20/showcase-your-professional-certifications-on-linkedin-in-one-click" class="about-app__link" target="_blank">увеличить просмотры вашего профиля в 6 раз, </a>добавив навыки, подтверждённые сертификатом (<a href="https://maltzenglish.com/cert/h4T3o" class="about-app__link" target="_blank">см. пример сертификата</a>).</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img  pt-50">
@@ -227,17 +227,17 @@
               </div>
               <div class="row pt-150">
                 <div class="col-12">
-                  <h3 class="section__title">Opcional</h3>
-                  <p class="section__description">¿Listo para llegar al siguiente nivel de su Conocimiento del Idioma Inglés?<br/>Inscríbase a un plan de acuerdo a su agenda.</p>
+                  <h3 class="section__title">Дополнительно</h3>
+                  <p class="section__description">Готовы повысить ваш уровень английского?<br/>Выберите программу согласно вашему расписанию.</p>
                 </div>
               </div>
               <div class="row about-app ">
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content about-app__description-content--left">
                     <div class="about-index"><h4 class="about-index-text">6</h4></div>
-                    <h4 class="about-app__description-title">Seleccione un plan</h4>
-                    <p>Elija de entre tres planes distintos, dependiendo de sus preferencias de aprendizaje (1 a 1 o grupal) y que tan rápido desea llegar al siguiente nivel de Conocimiento del Idioma Inglés.</p>
-                    <a href="#section-pricing" class="site-btn site-btn--accent about-app__btn">Seleccione un plan</a>
+                    <h4 class="about-app__description-title">Выберите программу</h4>
+                    <p>Выберите одну программу из трёх в зависимости от ваших предпочтений в обучении (индивидуальное или в группе) и от того, как скоро вы хотите достичь нового уровня знания языка.</p>
+                    <a href="#section-pricing" class="site-btn site-btn--accent about-app__btn">Выберите программу</a>
                   </div>
                 </div>
                 <div class="col-6 about-app__img  pt-50">
@@ -250,8 +250,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content ">
                     <div class="about-index"><h4 class="about-index-text">7</h4></div>
-                    <h4 class="about-app__description-title">Asista a las lecciones en línea</h4>
-                    <p>Su <abbr class="bold">maestro</abbr> se pondrá en contacto, de acuerdo a su horario predefinido. Revise el contenido pre asignado de clases, complete el examen previo a la lección e ingrese al salón de clases virtual desde su cuenta de estudiante, para poder presentarse con su maestro. Su maestro le enviará un reporte de la clase y también le marcará tarea después de cada lección.</p>
+                    <h4 class="about-app__description-title">Посещайте занятия онлайн</h4>
+                    <p>Ваш <abbr class="bold">преподаватель</abbr> будет связываться с вами согласно заранее установленному расписанию. Изучайте предоставленные заранее материалы для занятий, проходите небольшие тесты перед уроками и встречайтесь с вашим преподавателем в виртуальном классе. После каждого занятия преподаватель будет отправлять вам отчёт по уроку и домашнее задание.</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img about-app__img--left pt-50">
@@ -264,8 +264,8 @@
                 <div class="col-6 about-app__description pt-50">
                   <div class="about-app__description-content about-app__description-content--left">
                     <div class="about-index"><h4 class="about-index-text">8</h4></div>
-                    <h4 class="about-app__description-title">Revise el reporte de su progreso</h4>
-                    <p>Monitoree su progreso, por evaluación, y por criterio, desde la página de reporte de progreso. Aprenda todo lo que necesita completar para mejorar su certificado.</p>
+                    <h4 class="about-app__description-title">Отслеживайте свой прогресс</h4>
+                    <p>Следите за своими успехами согласно разным критериям и тестам на странице отчёта об успеваемости. Узнавайте, над чем следует поработать, чтобы получить лучший балл сертификата.</p>
                   </div>
                 </div>
                 <div class="col-6 about-app__img  pt-50">
@@ -284,9 +284,9 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <h3 class="section__title">Precio</h3>
+                <h3 class="section__title">Цены</h3>
                 <p class="section__description">
-                  Maltz English le trae la experiencia de aprendizaje de idiomas más poderosa y conveniente, impartido por maestros profesionales, 24/7. Seleccione un plan, de acuerdo a su disponibilidad y preferencias de aprendizaje. 
+                  Maltz English предоставляет вам возможность изучать английский эффективно и с комфортом при помощи профессиональных преподавателей в режиме 24/7. Выберите программу согласно вашему расписанию и предпочтениями в обучении. 
                 </p>
               </div>
             </div>
@@ -294,88 +294,88 @@
               <div class="col-12">
                 <div class="toggle-checkbox">
                   <input class="toggle-checkbox__input" type="checkbox" id="pricing-toggle">
-                  <span class="toggle-checkbox__left">Mensual</span>
+                  <span class="toggle-checkbox__left">В месяц</span>
                   <label class="toggle-checkbox__input-label" for="pricing-toggle">Toggle</label>
-                  <span class="toggle-checkbox__right">Anual</span>
+                  <span class="toggle-checkbox__right">В год</span>
                 </div>
               </div>
               <div class="col-4 col-t-12">
                 <div class="pricing__card card ">
-                  <h4 class="pricing__card-title pricing__card-title--accent">Regular</h4>
-                  <p>Mejore el nivel de su conocimiento del Idioma Inglés con un maestro privado.</p>
+                  <h4 class="pricing__card-title pricing__card-title--accent">Стандартная</h4>
+                  <p>Повысьте свой уровень английского с индивидуальным преподавателем.</p>
                   <p class="pricing__card-price pricing__card-price--year">$1,296</p>
                   <p class="pricing__card-price pricing__card-price--month">$120</p>
-                  <p class="pricing__card-price--per-month">Anual</p>
+                  <p class="pricing__card-price--per-month">В год</p>
                   <div class="pricing__card-price-save-wrap">
-                    <p class="pricing__card-price-save">Ahorre hasta un 10%</p>
+                    <p class="pricing__card-price-save">Сэкономьте 10%</p>
                     <hr class="pricing__hr">
                   </div>
                   <div class="pricing__opportunities">
-                    <p>Lecciones<abbr class="bold"> individuales</abbr></p>
-                    <p><abbr class="bold text-accent">Dos</abbr> lecciones <abbr class="bold">por semana</abbr></p>
-                    <p>Lecciones de <abbr class="bold">25</abbr> minutos</p>
-                    <p>Una evaluación por mes</p>
-                    <p>Autodidáctico + corrección de tareas</p>
-                    <p>Complete un nivel en tan sólo <abbr class="bold text-accent">18</abbr> meses</p>
+                    <p><abbr class="bold">Индивидуальные </abbr>занятия</p>
+                    <p><abbr class="bold text-accent">Два</abbr> занятия <abbr class="bold">в неделю</abbr></p>
+                    <p>Занятия по <abbr class="bold">25</abbr>минут</p>
+                    <p>Одно оценочное тестирование в месяц</p>
+                    <p>Самообучение + проверка домашних заданий</p>
+                    <p>Выйдите на новый уровень за <abbr class="bold text-accent">18</abbr> месяцев.</p>
                   </div>
-                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxMTM=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">Mensual plan</a>
-                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNjI=" class="site-btn site-btn--accent price-plan_yearly" target="_blank">Anual plan</a>
+                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxMTM=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">В месяц программу</a>
+                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNjI=" class="site-btn site-btn--accent price-plan_yearly" target="_blank">В год программу</a>
                 </div>
               </div>
               <div class="col-4 col-t-12">
                 <div class="pricing__card card">
-                  <h4 class="pricing__card-title pricing__card-title--accent">Intensivo</h4>
-                  <p><abbr class="bold">Mejore</abbr> el nivel de su conocimiento del Idioma Inglés con un maestro privado.</p>
+                  <h4 class="pricing__card-title pricing__card-title--accent">Интенсивная</h4>
+                  <p><abbr class="bold">Быстро</abbr> повесьте свой уровень английского с индивидуальным преподавателем.</p>
                   <p class="pricing__card-price pricing__card-price--year">$1,815</p>
                   <p class="pricing__card-price pricing__card-price--month">$168</p>
-                  <p class="pricing__card-price--per-month">Anual</p>
+                  <p class="pricing__card-price--per-month">В год</p>
                   <div class="pricing__card-price-save-wrap">
-                    <p class="pricing__card-price-save">Ahorre hasta un 10%</p>
+                    <p class="pricing__card-price-save">Сэкономьте 10%</p>
                     <hr class="pricing__hr">
                   </div>
                   <div class="pricing__opportunities">
-                    <p>Lecciones<abbr class="bold"> individuales</abbr></p>
-                    <p><abbr class="bold text-accent">Tres</abbr> lecciones <abbr class="bold">por semana</abbr></p>
-                    <p>Lecciones de <abbr class="bold">25</abbr> minutos</p>
-                    <p>Una evaluación por mes</p>
-                    <p>Autodidáctico + corrección de tareas</p>
-                    <p>Complete un nivel en tan sólo <abbr class="bold text-accent">12</abbr> meses</p>
+                    <p><abbr class="bold">Индивидуальные </abbr>занятия</p>
+                    <p><abbr class="bold text-accent">Три</abbr> занятия <abbr class="bold">в неделю</abbr></p>
+                    <p>Занятия по <abbr class="bold">25</abbr>минут</p>
+                    <p>Одно оценочное тестирование в месяц</p>
+                    <p>Самообучение + проверка домашних заданий</p>
+                    <p>Выйдите на новый уровень за <abbr class="bold text-accent">12</abbr> месяцев!</p>
                   </div>
-                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxMTQ=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">Mensual plan</a>
-                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNjM=" class="site-btn site-btn--accent price-plan_yearly" target="_blank">Anual plan</a>
+                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxMTQ=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">В месяц программу</a>
+                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNjM=" class="site-btn site-btn--accent price-plan_yearly" target="_blank">В год программу</a>
                 </div>
               </div>
               <div class="col-4 col-t-12">
                 <div class="pricing__card card ">
-                  <h4 class="pricing__card-title pricing__card-title--accent">Grupal</h4>
-                  <p>Clases grupales con un máximo de 6 estudiantes adicionales (evaluaciones personales 1 a 1)</p>
+                  <h4 class="pricing__card-title pricing__card-title--accent">Групповая</h4>
+                  <p>Занятия в группе на 7 человек или меньше (тестирование проводится индивидуально)</p>
                   <p class="pricing__card-price pricing__card-price--year">$1,079</p>
                   <p class="pricing__card-price pricing__card-price--month">$99</p>
-                  <p class="pricing__card-price--per-month">Anual</p>
+                  <p class="pricing__card-price--per-month">В год</p>
                   <div class="pricing__card-price-save-wrap">
-                    <p class="pricing__card-price-save">Ahorre hasta un 10%</p>
+                    <p class="pricing__card-price-save">Сэкономьте 10%</p>
                     <hr class="pricing__hr">
                   </div>
                   <div class="pricing__opportunities">
-                    <p>Lecciones<abbr class="bold"> grupales</abbr></p>
-                    <p><abbr class="bold text-accent">Tres</abbr> lecciones <abbr class="bold">por semana</abbr></p>
-                    <p>Lecciones de <abbr class="bold">55</abbr> minutos</p>
-                    <p>Una evaluación por mes</p>
-                    <p>Autodidáctico + corrección de tareas</p>
-                    <p>Complete un nivel en tan sólo <abbr class="bold text-accent">12</abbr> meses</p>
+                    <p><abbr class="bold">Групповые </abbr>занятия</p>
+                    <p><abbr class="bold text-accent">Три</abbr> занятия <abbr class="bold">в неделю</abbr></p>
+                    <p>Занятия по <abbr class="bold">55</abbr>минут</p>
+                    <p>Одно оценочное тестирование в месяц</p>
+                    <p>Самообучение + проверка домашних заданий</p>
+                    <p>Выйдите на новый уровень за <abbr class="bold text-accent">12</abbr> месяцев!</p>
                   </div>
-                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNTk=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">Mensual plan</a>
-                  <a href="https://languagepanel.com/regular_yearly" class="site-btn site-btn--accent price-plan_yearly" target="_blank">Anual plan</a>
+                  <a href="https://languagepanel.com/plan/mal/buypack/TUFMMDAxNTk=" class="site-btn site-btn--accent price-plan_monthly" target="_blank">В месяц программу</a>
+                  <a href="https://languagepanel.com/regular_yearly" class="site-btn site-btn--accent price-plan_yearly" target="_blank">В год программу</a>
                 </div>
               </div>
             </div>
             <div class="row">
               <div class="col-12 center">
-                <h3 class="section__title bold">¿Necesita un plan personalizado?</h3>
+                <h3 class="section__title bold">Нужна индивидуально составленная программа?</h3>
                 <p class="section__description">
-                  ¿Más o menos lecciones? ¿Tiene un horario complejo con varios tipos de conexión¿<br/>Contáctenos para organizar un plan de estudio personalizado
+                  Больше или меньше занятий? Сложное расписание с различными типами связи?<br/>Напишите нам, чтобы мы могли составить индивидуальную программу.
                 </p>
-                <a href="https://app.maltzenglish.com/mail/contact" class="mt-50 site-btn site-btn--accent " target="_blank">Contáctenos</a>
+                <a href="https://app.maltzenglish.com/mail/contact" class="mt-50 site-btn site-btn--accent " target="_blank">Связаться с нами</a>
               </div>
             </div>
           </div>
@@ -387,9 +387,9 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <h3 class="section__title">Compare Maltz English</h3>
+                <h3 class="section__title">Сравнение Maltz English</h3>
                 <p class="section__description">
-                  La mayoría de Escuelas de Idiomas en Línea en realidad son sólo talleres o <br/>mercados sin un currículo o evaluaciones.<br/>¿Cómo se compara Maltz English con las escuelas más sofisticadas? <br/><br/><br/>
+                  Большинство языковых онлайн-школ проводят лишь семинары или <br/>являются торговыми площадками без учебного плана и тестирований.<br/>Чем Maltz English отличается от самых популярных школ. <br/><br/><br/>
                 </p>
               </div>
             </div>
@@ -417,7 +417,7 @@
                     </thead>
                     <tbody class="site-table__body">
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#structured-curriculum" target="_blank">Currículo Estructurado</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#structured-curriculum" target="_blank">Упорядоченный учебный </a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/check.png"></p>
                         </td>
@@ -432,7 +432,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#self-study" target="_blank">Autodidáctico</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#self-study" target="_blank">план</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/check.png"></p>
                         </td>
@@ -447,7 +447,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#homework-with-teacher-correction" target="_blank">Corrección de tareas</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#homework-with-teacher-correction" target="_blank">Домашняя работа с исправлениями учителя</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/cancel.png"></p>
                         </td>
@@ -462,7 +462,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#easy-scheduling" target="_blank">Planee su propio horario</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#easy-scheduling" target="_blank">Лёгкость составления расписания</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/cancel.png"></p>
                         </td>
@@ -477,7 +477,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#online-certificate" target="_blank">Certificado en línea</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#online-certificate" target="_blank">Онлайн-сертификат</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/check.png"></p>
                         </td>
@@ -492,7 +492,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row"> 
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#1-1-group-options" target="_blank">1 a 1/opciones grupales</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#1-1-group-options" target="_blank">Индивидуальные / групповые занятия</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/cancel.png"></p>
                         </td>
@@ -507,7 +507,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#teacher-class-report" target="_blank">Reporte de clase por parte del maestro</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#teacher-class-report" target="_blank">Отчёт по занятию от преподавателя</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/cancel.png"></p>
                         </td>
@@ -522,7 +522,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#live-assessment-assessor" target="_blank">Evaluación en vivo (asesor)</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#live-assessment-assessor" target="_blank">Тестирование вживую (проводится экспертом)</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/cancel.png"></p>
                         </td>
@@ -537,7 +537,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#pay-as-you-go" target="_blank">Pague según su progreso</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#pay-as-you-go" target="_blank">Оплата по факту обучения</a></th>
                         <td class="site-table__td">
                           <p><img src="assets/img/check.png"></p>
                         </td>
@@ -552,7 +552,7 @@
                         </td>
                       </tr>
                       <tr class="site-table__row">
-                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#average-price-per-month" target="_blank">Precio promedio por mes</a></th>
+                        <th class="site-table__th tablesaw-swipe-cellpersist"><a href="https://docs.maltzenglish.com/compare#average-price-per-month" target="_blank">Средняя цена за месяц</a></th>
                         <td class="site-table__td">
                           <p>$500</p>
                         </td>
@@ -580,7 +580,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <h3 class="section__title">Qué es lo que piensan los estudiantes sobre Maltz English</h3>
+                <h3 class="section__title">Мнения учеников о Maltz English</h3>
               </div>
             </div>
            <div class="row carousel">
@@ -594,9 +594,9 @@
                         <p class="carousel__slide-avatar-work">Marketing Manager at Coco Marketing.</p>
                       </div>
                       <div class="carousel__slide-quote">
-                        <h4 class="carousel__slide-quote-title">El cambiar de maestros me ha ayudado a entender los distintos acentos.</h4>
-                        <p class="carousel__slide-quote-description">“He tenido varios maestros con Maltz English y cada uno de ellos fue completamente profesional e informado. Y el estar rotando de maestros, también me ha ayudado a entender los distintos acentos que los angloparlantes a veces tienen.<br/>
-                          El cambiar de maestros me ha ayudado a entender los distintos acentos.”</p>
+                        <h4 class="carousel__slide-quote-title">Смена учителя также позволила мне начать понимать разные акценты.</h4>
+                        <p class="carousel__slide-quote-description">«У меня было несколько разных преподавателей в Maltz English, и все они были настоящими профессионалами. Смена преподавателя также позволила мне научиться распознавать разные акценты носителей английского.<br/>
+                          Смена учителя также позволила мне начать понимать разные акценты.»</p>
                       </div>
                     </div>
                   </div>
@@ -608,10 +608,10 @@
                         <p class="carousel__slide-avatar-work">Academic Consultant (Madrid).</p>
                       </div>
                       <div class="carousel__slide-quote">
-                        <h4 class="carousel__slide-quote-title">He utilizado Maltz English desde hace 2 años Y me ha impresionado la calidad de los entrenadores de idioma que tiene Maltz English.</h4>
-                        <p class="carousel__slide-quote-description">"He utilizado Maltz English desde hace 2 años
-						Y me ha impresionado la calidad de los entrenadores de idioma que tiene Maltz English. Digo “entrenadores” en lugar de tutores porque este sistema fue hecho para aquellos que deseen aprender un nuevo idioma y lo pueden lograr estudiando por su cuenta. Los entrenadores proveen una gran cantidad de recursos y actividades para que practiques. Ellos son profesionales, accesibles y amigables.</br>
-						Maltz English ha sido una forma conveniente de conseguir lecciones de idiomas uno a uno para mi apretada agenda. Me gusta tener mis sesiones temprano por la mañana. Es una excelente forma de comenzar mi día, y esto me ayuda a sentir que he logrado algo importante mucho antes de comenzar con mi día."</p>
+                        <h4 class="carousel__slide-quote-title">Моё обучение в Maltz English длилось два года.</h4>
+                        <p class="carousel__slide-quote-description">"Моё обучение в Maltz English длилось два года.
+						Меня впечатлил профессионализм коучей английского в Maltz English. Я говорю «коучи», а не «преподаватели», потому что эта система создана для тех, кто мотивирован выучить новый язык и умеет заниматься самостоятельно. Коучи предоставляют множество разных материалов и упражнений для практики. Они ведут себя профессионально, оставаясь отзывчивыми и дружелюбными.</br>
+						Для меня Maltz English - это удобный способ посещать индивидуальные занятия, несмотря на плотный график. Мне нравится учиться рано утром. Это отличный способ начать день и почувствовать себя продуктивнее."</p>
                       </div>
                     </div>
                   </div>
@@ -623,10 +623,9 @@
                         <p class="carousel__slide-avatar-work">Director at Duo Build (Moscow).</p>
                       </div>
                       <div class="carousel__slide-quote">
-                        <h4 class="carousel__slide-quote-title">Llevo usando Maltz English desde hace más de un año.</h4>
-                        <p class="carousel__slide-quote-description">"Llevo usando Maltz English por más de un año y he amado a cada maestro con el que he trabajado. Una en particular fue la maestra Patricia Rena, ella es maravillosa. Cuando la descubrí, decidí quedarme con ella, esto fue hace un año.</br>
-						¡Ella hizo que aprender inglés fuese divertido!</br>
-						¡Definitivamente vale cada centavo si están comprometido a mejorar tus habilidades para hablar en cualquier idioma!"</p>
+                        <h4 class="carousel__slide-quote-title">Я учусь с Maltz English уже больше года.</h4>
+                        <p class="carousel__slide-quote-description">"Я учусь с Maltz English уже больше года, и я в восторге от преподавателей, с которыми мне довелось поработать. Хочу отдельно отметить Патришу Рина. Я не расстаюсь с ней вот уже год. Благодаря ей изучение английского превратилось в забавное времяпрепровождение!</br>
+						Отличное соотношение цены и качества, если вы настроены на то, чтобы прокачать свои навыки устной речи!"</p>
                       </div>
                     </div>
                   </div>
@@ -638,8 +637,8 @@
                         <p class="carousel__slide-avatar-work">Finance & Data Analytics Professional (Marseille).</p>
                       </div>
                       <div class="carousel__slide-quote">
-                        <h4 class="carousel__slide-quote-title">Elegante y eficiente</h4>
-                        <p class="carousel__slide-quote-description">"Yo creo que Maltz English es una excelente forma de aprender rápido cualquier idioma, con maestros de todas partes del mundo. Es una forma rápida y efectiva de tener lecciones en cualquier momento y en cualquier lugar, encuentra un entrenador de idioma personal que pueda crear un buen esquema de aprendizaje para ti y que te ayude a navegar a través del laberinto que es aprender un nuevo idioma y lograrlo con éxito. Así que, Maltz es la opción para ti si eres una persona ocupada, y quieres empezar a hablar Inglés en poco tiempo, prepararte para un examen, entrevista o para desarrollar mejores habilidades conversacionales."</p>
+                        <h4 class="carousel__slide-quote-title">Элегантный и эффективный</h4>
+                        <p class="carousel__slide-quote-description">"Думаю, Maltz English - это отличный шанс выучить любой язык с преподавателями со всего света. Это быстрый и эффективный способ посещать занятия в любое время и в любом месте, а также найти «своего» преподавателя, который подстроит процесс обучения под ваши нужды и поможет пробраться сквозь языковые хитросплетения к успеху. В общем, Maltz подойдёт тем, кто всё время занят, но хочет быстро начать говорить по-английски, подготовиться к экзаменам или собеседованию и развить свои навыки общения."</p>
                       </div>
                     </div>
                   </div>
@@ -653,18 +652,18 @@
         <div class="container download">
           <div class="row">
             <div class="col-12">
-              <h3 class="download__title">¡Comienza hoy mismo!</h3>
-              <h3>Agende su primera evaluación</h3>
+              <h3 class="download__title">Попробуйте уже сегодня!</h3>
+              <h3>Запланируйте ваше первое тестирование</h3>
             </div>
           </div>
           <div class="row download__btns">
             <div class="col-6">
               <a href="https://www.languagepanel.com/order/buypack/Mjkx" class="site-btn site-btn--accent site-btn--right download__btn-first" target="_blank">
-                Agende su cita para llevar a cabo su evaluación</a>
+                Запланируйте тестирование</a>
             </div>
             <div class="col-6">
               <a href="https://languagepanel.com/mal/callback" class="site-btn site-btn--light site-btn--left" target="_blank">
-              	Agende sua consulta</a>
+                Забронировать консультацию</a>
             </div>
           </div>
         </div>
@@ -679,12 +678,12 @@
               </a>
               <nav class="footer-menu__nav">
                 <ul>
-                  <li><a class="link link--gray" href="https://docs.maltzenglish.com/faq" target="_blank">Preguntas Más Frecuentes</a></li>
-                  <li><a class="link link--gray" href="https://docs.maltzenglish.com/privacy-policy" target="_blank">Aviso de Privacidad</a></li>
-                  <li><a class="link link--gray" href="https://app.maltzenglish.com/mail/contact" target="_blank">Contacto</a></li>
-                  <li><a href="https://docs.maltzenglish.com/level-definition" class="link link--gray" target="_blank">Definición de Nivel</a></li>
-                  <li><a href="https://app.maltzenglish.com/code " class="link link--gray" target="_blank">Canjear un código</a></li>
-                  <li><a href="https://app.maltzenglish.com/applicant/login#signup" class="link link--gray" target="_blank">Enseñar</a></li>
+                  <li><a class="link link--gray" href="https://docs.maltzenglish.com/faq" target="_blank">Часто задаваемые вопросы</a></li>
+                  <li><a class="link link--gray" href="https://docs.maltzenglish.com/privacy-policy" target="_blank">Конфиденциальность</a></li>
+                  <li><a class="link link--gray" href="https://app.maltzenglish.com/mail/contact" target="_blank">Контакты</a></li>
+                  <li><a href="https://docs.maltzenglish.com/level-definition" class="link link--gray" target="_blank">Определение уровней</a></li>
+                  <li><a href="https://app.maltzenglish.com/code " class="link link--gray" target="_blank">Определение уровней</a></li>
+                  <li><a href="https://app.maltzenglish.com/applicant/login#signup" class="link link--gray" target="_blank">Учат</a></li>
                 </ul>
               </nav>
               <p class="footer-menu__social">

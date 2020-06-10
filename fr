@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="assets/css/custom.css" id="main_style">
@@ -62,9 +62,9 @@
                         </a>
                         <div class="menu__dropdown-content">
                           <a class="link link--gray" href="index.html">En</a>
-                          <a class="link link--gray" href="es.html">Es</a>
-                          <a class="link link--gray link--gray-active" href="fr.html">Fr</a>
-                          <a class="link link--gray" href="ru.html">Ru</a>
+                          <a class="link link--gray" href="es">Es</a>
+                          <a class="link link--gray link--gray-active" href="fr">Fr</a>
+                          <a class="link link--gray" href="ru">Ru</a>
                         </div>
                       </div>
                     </li>
